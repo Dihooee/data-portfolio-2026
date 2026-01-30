@@ -13,7 +13,14 @@
 - `GROUP BY` + `SUM()` aggregates totals by group
 - `COUNT(*)` counts rows
 
-## Quick findings from my sample data
-- Top customer by total spending: **Cathy (254.0)**
-- Sam placed **2** orders (35.5 + 22.0)
-- Alan placed **2** orders (18.0 + 8.5)
+## Quick findings (based on Q3–Q8)
+
+- High-value orders (> 50): **2 orders** — Cathy (55.0) and Cathy (199.0).  (Q3)
+- Top 3 orders by amount: **199.0 (Cathy)**, **55.0 (Cathy)**, **35.5 (Sam)**.  (Q5)
+- Top customer by total spending: **Cathy = 254.0**. (Q6)
+- Daily sales totals:
+  - 2026-01-30: **65.5**
+  - 2026-01-31: **22.0**
+  - 2026-02-01: **67.5**
+  - 2026-02-02: **207.5**  (Q7)
+- Orders per customer: Sam **2**, Alan **2**, Cathy **2**, Vicky **1**, Jennifer **1**.  (Q8)
