@@ -8,6 +8,12 @@ UCL Comparative Literature student transitioning into tech.
 - I can clean/analyse data with Python
 - I can present insights clearly (reports + dashboard screenshots)
 
+## Navigation
+- [SQL](./sql)
+- [Python](./python)
+- [Report](./report)
+- [Assets](./assets)
+
 ## Roadmap (first 2 weeks)
 - [ ] Set up repo structure
 - [ ] Write 10 SQL questions → convert to real queries
