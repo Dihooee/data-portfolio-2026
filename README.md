@@ -16,9 +16,9 @@ UCL Comparative Literature student transitioning into tech.
 
 ## Roadmap (first 2 weeks)
 - [ ] Set up repo structure
-- [ ] Write 10 SQL questions → convert to real queries
+- [x] Write 10 SQL questions → convert to real queries
 - [ ] Build a small Python analysis notebook
-- [ ] Write a 1-page insight report
+- [x] Write a 1-page insight report
 
 ## Why this matters
 Non-CS background, so I focus on tangible proof (projects + clear documentation).
