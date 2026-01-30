@@ -9,10 +9,10 @@ UCL Comparative Literature student transitioning into tech.
 - I can present insights clearly (reports + dashboard screenshots)
 
 ## Navigation
-- [SQL](./sql)
-- [Python](./python)
-- [Report](./report)
-- [Assets](./assets)
+- [SQL](./sql) - business questions -> queries -> results
+- [Python](./python) - cleaning + analysis notebooks
+- [Report](./report) - 1-page insight write-ups
+- [Assets](./assets) - screenshots and charts
 
 ## Roadmap (first 2 weeks)
 - [ ] Set up repo structure
