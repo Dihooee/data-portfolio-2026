@@ -22,3 +22,6 @@ UCL Comparative Literature student transitioning into tech.
 
 ## Why this matters
 Non-CS background, so I focus on tangible proof (projects + clear documentation).
+
+## Reports
+- [Day 11 — Customer Insights Report](./report/day11_report.md)
