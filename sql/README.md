@@ -29,3 +29,6 @@ I will store my SQL questions, queries, and explanations here.
 - [Day 9 SQL workbook](./day9.sql)
 - [Day 9 notes](./day9_notes.md)
 - [Day 9 results](./day9_results.md)
+- [Day 10 SQL workbook](./day10.sql)
+- [Day 10 notes](./day10_notes.md)
+- [Day 10 results](./day10_results.md)
