@@ -20,3 +20,6 @@ I will store my SQL questions, queries, and explanations here.
 - [Day 6 SQL workbook](./day6.sql)
 - [Day 6 notes](./day6_notes.md)
 - [Day 6 results](./day6_results.md)
+- [Day 7 SQL workbook](./day7.sql)
+- [Day 7 notes](./day7_notes.md)
+- [Day 7 results](./day7_results.md)
