@@ -14,3 +14,6 @@ I will store my SQL questions, queries, and explanations here.
 - [Day 4 SQL workbook](./day4.sql)
 - [Day 4 notes](./day4_notes.md)
 - [Day 4 results](./day4_results.md)
+- [Day 5 SQL workbook](./day5.sql)
+- [Day 5 notes](./day5_notes.md)
+- [Day 5 results](./day5_results.md)
